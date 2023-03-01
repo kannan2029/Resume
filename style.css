@@ -1,0 +1,32 @@
+h1{
+    font-family: Arial;
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+input[type=text], input[type=email], input[type=number], input[type=select], input[type=date],input[type=select],input[type=password], input[type=tel]
+{
+    width: 30%; 
+}
+input[type=text], input[type=email], input[type=number], input[type=select], input[type=date],input[type=select],input[type=password], input[type=tel]
+{
+    width: 25%;
+    padding: 8px;
+}
+input[type=text], input[type=email], input[type=number], input[type=select], input[type=date],input[type=select],input[type=password], input[type=tel]
+{
+    width: 40%;
+    padding: 12px;
+border: 1px solid rgb(0, 0, 0);
+}
+input[type=text], input[type=email], input[type=number], input[type=select], input[type=date],input[type=select],input[type=password], input[type=tel]
+{
+    width: 40%;
+    padding: 12px;
+border: 1px solid rgb(0, 0, 0);
+ border-radius: 2%; // Try border-radius: 4px; 
+}

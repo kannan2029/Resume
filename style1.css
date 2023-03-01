@@ -1,0 +1,45 @@
+h1{
+    text-align:center;
+    }
+    
+    .col-1{
+    float:left;
+    width:30%;
+    }
+    h2{
+    color:white;
+    background-color:black;
+    font:20px sans-serif;
+    position:sticky;
+    top:0;
+    left:0;
+    }
+    
+    <table border=1>
+    table{
+    margin-left:10px;
+    border:1px solid blue;
+    border-collapse:collapse;
+    }
+    th{
+    background:grey;
+    }
+    
+    th:nth-child(1){
+    width:5%;
+    }
+    th:nth-child(2){
+    width:15%;
+    }
+    th:nth-child(3){
+    width:30%;
+    }
+    th:nth-child(4){
+    width:25%;
+    }
+    th:nth-child(5){
+    width:10%;
+    }
+    th:nth-child(6){
+    width:10%;
+    }
